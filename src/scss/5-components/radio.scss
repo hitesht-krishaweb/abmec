@@ -1,0 +1,38 @@
+.radio {
+    $self: &;
+    cursor: pointer;
+
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+
+    margin-bottom: 0.5rem;
+
+    &__input {
+        position: absolute;
+        width: 0;
+        height: 0;
+        overflow: hidden;
+        appearance: none;
+
+        &:checked {
+           + #{$self}__indicator {
+                background: get-color(brand, primary);
+            }
+        }
+    }
+
+    &__indicator {
+        display: inline-block;
+
+        width: pxtorem(13px);
+        height: pxtorem(13px);
+
+        margin-right: 0.5rem;
+
+        border-radius: 50%;
+        border: 2px solid get-color(greyscales, light);
+
+        background: get-color(greyscales, white);
+    }
+}

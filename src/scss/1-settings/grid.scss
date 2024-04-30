@@ -1,0 +1,48 @@
+/*
+    * grid variables
+    xs: mobile
+    sm: tablet
+    md: 13" desktop
+    lg: small desktop
+    xl: medium dekstop
+    xxl: large desktop
+*/
+
+$grid-columns: 12 !default;
+$max-width-container: 1170px; // = XXL breakpoint + XXL offset
+
+$grid-breakpoints: (
+    xs: 0,
+    sm: 576px,
+    md: 768px,
+    lg: 992px,
+    xl: 1200px,
+    xxl: 1400px
+) !default;
+
+$container-max-widths: (
+    sm: 540px,
+    md: 720px,
+    lg: 960px,
+    xl: 1140px,
+    xxl: $max-width-container
+) !default;
+
+$offsets: (
+    xs: 15px,
+    sm: 15px,
+    md: 15px,
+    lg: 15px,
+    xl: 15px,
+    xxl: 15px
+) !default;
+
+// Gutters ~ used by .row / .col
+$gutters: (
+    xs: 30px,
+    sm: 30px,
+    md: 30px,
+    lg: 30px,
+    xl: 30px,
+    xxl: 30px
+) !default;

@@ -1,0 +1,6034 @@
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-194276
+        )
+
+    [naam] => Array
+        (
+            [0] => Niemeyer 4 schaar
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 110
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [categorie] => Array
+        (
+            [0] => Ploegen
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [tanden] => Array
+        (
+            [0] => 4.00
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dellaert, Eugene
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Terneuzen
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-12-28
+        )
+
+    [merk] => Array
+        (
+            [0] => Niemeyer
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-53133876
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2007
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 5000.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0115 692270
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+)
+
+Niemeyer 4 schaar End Log
+Vincenzy VGM 3 beregeningspomp compleet Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-197245
+        )
+
+    [naam] => Array
+        (
+            [0] => Vincenzy VGM 3 beregeningspomp compleet
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 600
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [categorie] => Array
+        (
+            [0] => Beregeningspompen
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2018
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dellaert, Eugene
+            [1] => Dellaert, Eugene
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Terneuzen
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-02-15
+        )
+
+    [merk] => Array
+        (
+            [0] => Vincenzy
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-53133876
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0115 692270
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-197245
+        )
+
+    [naam] => Array
+        (
+            [0] => Vincenzy VGM 3 beregeningspomp compleet
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 600
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [categorie] => Array
+        (
+            [0] => Beregeningspompen
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2018
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dellaert, Eugene
+            [1] => Dellaert, Eugene
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Terneuzen
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-02-15
+        )
+
+    [merk] => Array
+        (
+            [0] => Vincenzy
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-53133876
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0115 692270
+        )
+
+)
+
+Vincenzy VGM 3 beregeningspomp compleet End Log
+Amazone ZAx perfect 1402 Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-197491
+        )
+
+    [naam] => Array
+        (
+            [0] => Amazone ZAx perfect 1402
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 220
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [categorie] => Array
+        (
+            [0] => Kunstmeststrooiers
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2006
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dellaert, Eugene
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Terneuzen
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-12
+        )
+
+    [merk] => Array
+        (
+            [0] => Amazone
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-53133876
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0115 692270
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-197491
+        )
+
+    [naam] => Array
+        (
+            [0] => Amazone ZAx perfect 1402
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 220
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [categorie] => Array
+        (
+            [0] => Kunstmeststrooiers
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2006
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dellaert, Eugene
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Terneuzen
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-12
+        )
+
+    [merk] => Array
+        (
+            [0] => Amazone
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-53133876
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0115 692270
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+)
+
+Amazone ZAx perfect 1402 End Log
+Veenhuis 10 ton Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-202896
+        )
+
+    [naam] => Array
+        (
+            [0] => Veenhuis 10 ton
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 210
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [categorie] => Array
+        (
+            [0] => Kip- en silagewagens
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 6495.00
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 1970
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dellaert, Eugene
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-53133876
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Terneuzen
+        )
+
+    [bandenvoor] => Array
+        (
+            [0] => Banden 385/65- R 22,5
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => banden zijn goed
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-18
+        )
+
+    [merk] => Array
+        (
+            [0] => Veenhuis
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-202896_00.jpg|MCH-202896_01.jpg|MCH-202896_02.jpg|MCH-202896_03.jpg
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0115 692270
+        )
+
+    [gereserveerd_tot] => Array
+        (
+            [0] => 3/18/2021
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-202896
+        )
+
+    [naam] => Array
+        (
+            [0] => Veenhuis 10 ton
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 210
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [categorie] => Array
+        (
+            [0] => Kip- en silagewagens
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 6495.00
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 1970
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dellaert, Eugene
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-53133876
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Terneuzen
+        )
+
+    [bandenvoor] => Array
+        (
+            [0] => Banden 385/65- R 22,5
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => banden zijn goed
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-18
+        )
+
+    [merk] => Array
+        (
+            [0] => Veenhuis
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-202896_00.jpg|MCH-202896_01.jpg|MCH-202896_02.jpg|MCH-202896_03.jpg
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0115 692270
+        )
+
+    [gereserveerd_tot] => Array
+        (
+            [0] => 3/18/2021
+        )
+
+)
+
+Veenhuis 10 ton End Log
+Agrifac Condor 45 m Wide Track Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-196553
+        )
+
+    [naam] => Array
+        (
+            [0] => Agrifac Condor 45 m Wide Track
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 270
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 225-300
+        )
+
+    [categorie] => Array
+        (
+            [0] => Veldspuiten
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2014
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dellaert, Eugene
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-53133876
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Terneuzen
+        )
+
+    [laadvermogen] => Array
+        (
+            [0] => 5,000.00
+        )
+
+    [draaiuren] => Array
+        (
+            [0] => 3675
+        )
+
+    [pk] => Array
+        (
+            [0] => 205
+        )
+
+    [bandenvoor] => Array
+        (
+            [0] => 380/105-R 50   20 %
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 380/105- R 50  20 %
+        )
+
+    [cabine] => Array
+        (
+            [0] => Cabine + airco
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [elementen] => Array
+        (
+            [0] => 19.00
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 5000
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-19
+        )
+
+    [merk] => Array
+        (
+            [0] => Agrifac
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-196553_00.jpg|MCH-196553_01.jpg|MCH-196553_02.jpg|MCH-196553_03.jpg|MCH-196553_04.jpg|MCH-196553_05.jpg|MCH-196553_06.jpg
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0115 692270
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [gereserveerd_tot] => Array
+        (
+            [0] => 3/23/2021
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-196553
+        )
+
+    [naam] => Array
+        (
+            [0] => Agrifac Condor 45 m Wide Track
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 270
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 225-300
+        )
+
+    [categorie] => Array
+        (
+            [0] => Veldspuiten
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2014
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dellaert, Eugene
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-53133876
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Terneuzen
+        )
+
+    [laadvermogen] => Array
+        (
+            [0] => 5,000.00
+        )
+
+    [draaiuren] => Array
+        (
+            [0] => 3675
+        )
+
+    [pk] => Array
+        (
+            [0] => 205
+        )
+
+    [bandenvoor] => Array
+        (
+            [0] => 380/105-R 50   20 %
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 380/105- R 50  20 %
+        )
+
+    [cabine] => Array
+        (
+            [0] => Cabine + airco
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [elementen] => Array
+        (
+            [0] => 19.00
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 5000
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-19
+        )
+
+    [merk] => Array
+        (
+            [0] => Agrifac
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-196553_00.jpg|MCH-196553_01.jpg|MCH-196553_02.jpg|MCH-196553_03.jpg|MCH-196553_04.jpg|MCH-196553_05.jpg|MCH-196553_06.jpg
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0115 692270
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [gereserveerd_tot] => Array
+        (
+            [0] => 3/23/2021
+        )
+
+)
+
+Agrifac Condor 45 m Wide Track End Log
+Kuhn GF 10802T schudder Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-203054
+        )
+
+    [naam] => Array
+        (
+            [0] => Kuhn GF 10802T schudder
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 310
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => verkocht ovb nd
+        )
+
+    [categorie] => Array
+        (
+            [0] => Schudders
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2015
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [elementen] => Array
+        (
+            [0] => 10.00
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-19
+        )
+
+    [merk] => Array
+        (
+            [0] => Kuhn
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 5-Goed
+            [1] => 5-Goed
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-203054_00.jpg|MCH-203054_01.jpg|MCH-203054_02.jpg|MCH-203054_03.jpg
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-203054
+        )
+
+    [naam] => Array
+        (
+            [0] => Kuhn GF 10802T schudder
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 310
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => verkocht ovb nd
+        )
+
+    [categorie] => Array
+        (
+            [0] => Schudders
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2015
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [elementen] => Array
+        (
+            [0] => 10.00
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-19
+        )
+
+    [merk] => Array
+        (
+            [0] => Kuhn
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 5-Goed
+            [1] => 5-Goed
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-203054_00.jpg|MCH-203054_01.jpg|MCH-203054_02.jpg|MCH-203054_03.jpg
+        )
+
+)
+
+Kuhn GF 10802T schudder End Log
+Trioliet TU 170 kuilsnijder Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-202465
+        )
+
+    [naam] => Array
+        (
+            [0] => Trioliet TU 170 kuilsnijder
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 420
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => met mechanische afschuiver
+        )
+
+    [categorie] => Array
+        (
+            [0] => Uitkuilapparatuur
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2017
+        )
+
+    [werkbreedte] => Array
+        (
+            [0] => 0.80
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [rijsnelheidmax] => Array
+        (
+            [0] => 0.80
+        )
+
+    [werkhoogte] => Array
+        (
+            [0] => 1.70
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-01
+        )
+
+    [merk] => Array
+        (
+            [0] => Trioliet
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 4950.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-202465
+        )
+
+    [naam] => Array
+        (
+            [0] => Trioliet TU 170 kuilsnijder
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 420
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => met mechanische afschuiver
+        )
+
+    [categorie] => Array
+        (
+            [0] => Uitkuilapparatuur
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2017
+        )
+
+    [werkbreedte] => Array
+        (
+            [0] => 0.80
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [rijsnelheidmax] => Array
+        (
+            [0] => 0.80
+        )
+
+    [werkhoogte] => Array
+        (
+            [0] => 1.70
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-01
+        )
+
+    [merk] => Array
+        (
+            [0] => Trioliet
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 4950.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+Trioliet TU 170 kuilsnijder End Log
+Joskin Solodisc 6880/32 SDH Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-202647
+        )
+
+    [naam] => Array
+        (
+            [0] => Joskin Solodisc 6880/32 SDH
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 190
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => hydraulische afsluiters
+        )
+
+    [categorie] => Array
+        (
+            [0] => Zodebemesters
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 16750.00
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2015
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [elementen] => Array
+        (
+            [0] => 16.00
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-04
+        )
+
+    [merk] => Array
+        (
+            [0] => Joskin
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-202647_00.jpg|MCH-202647_01.jpg|MCH-202647_02.jpg|MCH-202647_03.jpg|MCH-202647_04.jpg
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-202647
+        )
+
+    [naam] => Array
+        (
+            [0] => Joskin Solodisc 6880/32 SDH
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 190
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => hydraulische afsluiters
+        )
+
+    [categorie] => Array
+        (
+            [0] => Zodebemesters
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 16750.00
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2015
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [elementen] => Array
+        (
+            [0] => 16.00
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-04
+        )
+
+    [merk] => Array
+        (
+            [0] => Joskin
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-202647_00.jpg|MCH-202647_01.jpg|MCH-202647_02.jpg|MCH-202647_03.jpg|MCH-202647_04.jpg
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+Joskin Solodisc 6880/32 SDH End Log
+Kuhn GMD 802 F-FF frontmaaier Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-202545
+        )
+
+    [naam] => Array
+        (
+            [0] => Kuhn GMD 802 F-FF frontmaaier
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 300
+        )
+
+    [beschrijving] => Array
+        (
+            [0] =>  geen kneuzer
+        )
+
+    [categorie] => Array
+        (
+            [0] => Maaimachines
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 7500.00
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2011
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-12
+        )
+
+    [merk] => Array
+        (
+            [0] => Kuhn
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-202545_00.jpg|MCH-202545_01.jpg
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-202545
+        )
+
+    [naam] => Array
+        (
+            [0] => Kuhn GMD 802 F-FF frontmaaier
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 300
+        )
+
+    [beschrijving] => Array
+        (
+            [0] =>  geen kneuzer
+        )
+
+    [categorie] => Array
+        (
+            [0] => Maaimachines
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 7500.00
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2011
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-12
+        )
+
+    [merk] => Array
+        (
+            [0] => Kuhn
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-202545_00.jpg|MCH-202545_01.jpg
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+Kuhn GMD 802 F-FF frontmaaier End Log
+Kuhn GMD 700 maaier Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-202883
+        )
+
+    [naam] => Array
+        (
+            [0] => Kuhn GMD 700 maaier
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 300
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => verkocht ovb nd
+        )
+
+    [categorie] => Array
+        (
+            [0] => Maaimachines
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2004
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [elementen] => Array
+        (
+            [0] => 7.00
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-19
+        )
+
+    [merk] => Array
+        (
+            [0] => Kuhn
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-202883_00.jpg|MCH-202883_01.jpg
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-202883
+        )
+
+    [naam] => Array
+        (
+            [0] => Kuhn GMD 700 maaier
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 300
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => verkocht ovb nd
+        )
+
+    [categorie] => Array
+        (
+            [0] => Maaimachines
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2004
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [elementen] => Array
+        (
+            [0] => 7.00
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-19
+        )
+
+    [merk] => Array
+        (
+            [0] => Kuhn
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-202883_00.jpg|MCH-202883_01.jpg
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+Kuhn GMD 700 maaier End Log
+Toro SW 4200 zitmaaier Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-197358
+        )
+
+    [naam] => Array
+        (
+            [0] => Toro SW 4200 zitmaaier
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 290
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => zero turn met stuurwiel
+        )
+
+    [categorie] => Array
+        (
+            [0] => Tuin en park machines
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2018
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-10
+        )
+
+    [merk] => Array
+        (
+            [0] => Toro
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 3665.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-197358
+        )
+
+    [naam] => Array
+        (
+            [0] => Toro SW 4200 zitmaaier
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 290
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => zero turn met stuurwiel
+        )
+
+    [categorie] => Array
+        (
+            [0] => Tuin en park machines
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2018
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-10
+        )
+
+    [merk] => Array
+        (
+            [0] => Toro
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 3665.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 5-Goed
+        )
+
+)
+
+Toro SW 4200 zitmaaier End Log
+Tulip SX 6000 strooier op onderstel Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-197369
+        )
+
+    [naam] => Array
+        (
+            [0] => Tulip SX 6000 strooier op onderstel
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 220
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [categorie] => Array
+        (
+            [0] => Kunstmeststrooiers
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-10
+        )
+
+    [merk] => Array
+        (
+            [0] => Tulip
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 3950.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-197369
+        )
+
+    [naam] => Array
+        (
+            [0] => Tulip SX 6000 strooier op onderstel
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 220
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [categorie] => Array
+        (
+            [0] => Kunstmeststrooiers
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-10
+        )
+
+    [merk] => Array
+        (
+            [0] => Tulip
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 3950.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+)
+
+Tulip SX 6000 strooier op onderstel End Log
+Redrock  voermengwagen Varicut 20m3 Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-194406
+        )
+
+    [naam] => Array
+        (
+            [0] => Redrock  voermengwagen Varicut 20m3
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 450
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => peddelmengsysteem, weeginrichting
+        )
+
+    [categorie] => Array
+        (
+            [0] => Voermengwagens
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-12-24
+        )
+
+    [merk] => Array
+        (
+            [0] => Abemec
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 385/65R22.5
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 20m3
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2013
+        )
+
+    [elementen] => Array
+        (
+            [0] => 1.00
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-194406_00.jpg|MCH-194406_01.jpg|MCH-194406_02.jpg|MCH-194406_03.jpg|MCH-194406_04.jpg|MCH-194406_05.jpg|MCH-194406_06.jpg|MCH-194406_07.jpg|MCH-194406_08.jpg|MCH-194406_09.jpg|MCH-194406_10.jpg|MCH-194406_11.jpg|MCH-194406_12.jpg|MCH-194406_13.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 14500.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-194406
+        )
+
+    [naam] => Array
+        (
+            [0] => Redrock  voermengwagen Varicut 20m3
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 450
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => peddelmengsysteem, weeginrichting
+        )
+
+    [categorie] => Array
+        (
+            [0] => Voermengwagens
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-12-24
+        )
+
+    [merk] => Array
+        (
+            [0] => Abemec
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 385/65R22.5
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 20m3
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2013
+        )
+
+    [elementen] => Array
+        (
+            [0] => 1.00
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-194406_00.jpg|MCH-194406_01.jpg|MCH-194406_02.jpg|MCH-194406_03.jpg|MCH-194406_04.jpg|MCH-194406_05.jpg|MCH-194406_06.jpg|MCH-194406_07.jpg|MCH-194406_08.jpg|MCH-194406_09.jpg|MCH-194406_10.jpg|MCH-194406_11.jpg|MCH-194406_12.jpg|MCH-194406_13.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 14500.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+Redrock  voermengwagen Varicut 20m3 End Log
+Krone 280 CVQ maaimachine Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-193928
+        )
+
+    [naam] => Array
+        (
+            [0] => Krone 280 CVQ maaimachine
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 300
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => met kneuzer
+        )
+
+    [categorie] => Array
+        (
+            [0] => Maaimachines
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-12-22
+        )
+
+    [merk] => Array
+        (
+            [0] => Krone
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2010
+        )
+
+    [elementen] => Array
+        (
+            [0] => 7.00
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-193928_00.jpg|MCH-193928_01.jpg|MCH-193928_02.jpg|MCH-193928_03.jpg|MCH-193928_04.jpg|MCH-193928_05.jpg|MCH-193928_06.jpg|MCH-193928_07.jpg|MCH-193928_08.jpg|MCH-193928_09.jpg|MCH-193928_10.jpg|MCH-193928_11.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 4950.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-193928
+        )
+
+    [naam] => Array
+        (
+            [0] => Krone 280 CVQ maaimachine
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 300
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => met kneuzer
+        )
+
+    [categorie] => Array
+        (
+            [0] => Maaimachines
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-12-22
+        )
+
+    [merk] => Array
+        (
+            [0] => Krone
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2010
+        )
+
+    [elementen] => Array
+        (
+            [0] => 7.00
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-193928_00.jpg|MCH-193928_01.jpg|MCH-193928_02.jpg|MCH-193928_03.jpg|MCH-193928_04.jpg|MCH-193928_05.jpg|MCH-193928_06.jpg|MCH-193928_07.jpg|MCH-193928_08.jpg|MCH-193928_09.jpg|MCH-193928_10.jpg|MCH-193928_11.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 4950.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+Krone 280 CVQ maaimachine End Log
+Weidemann 1160 CX35 Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-194048
+        )
+
+    [naam] => Array
+        (
+            [0] => Weidemann 1160 CX35
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 402
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => hydraulische snelwissel, zonder aanbouwdelen
+        )
+
+    [categorie] => Array
+        (
+            [0] => Knikladers
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-12
+        )
+
+    [merk] => Array
+        (
+            [0] => Weidemann
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [draaiuren] => Array
+        (
+            [0] => 237
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 31x15.5-15 AS
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [werkhoogte] => Array
+        (
+            [0] => 2.74
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2018
+        )
+
+    [bandenvoor] => Array
+        (
+            [0] => 31x15.5-15 AS
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-194048_00.png
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 26950.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-194048
+        )
+
+    [naam] => Array
+        (
+            [0] => Weidemann 1160 CX35
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 402
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => hydraulische snelwissel, zonder aanbouwdelen
+        )
+
+    [categorie] => Array
+        (
+            [0] => Knikladers
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-12
+        )
+
+    [merk] => Array
+        (
+            [0] => Weidemann
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [draaiuren] => Array
+        (
+            [0] => 237
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 31x15.5-15 AS
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [werkhoogte] => Array
+        (
+            [0] => 2.74
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2018
+        )
+
+    [bandenvoor] => Array
+        (
+            [0] => 31x15.5-15 AS
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-194048_00.png
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 26950.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+Weidemann 1160 CX35 End Log
+Weidemann T4080 telescooplader Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-194597
+        )
+
+    [naam] => Array
+        (
+            [0] => Weidemann T4080 telescooplader
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 402
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => excl aanbouwdelen
+        )
+
+    [categorie] => Array
+        (
+            [0] => Knikladers
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2018
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [draaiuren] => Array
+        (
+            [0] => 1133
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 550/45-22.5AS
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [werkhoogte] => Array
+        (
+            [0] => 5.00
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-12
+        )
+
+    [merk] => Array
+        (
+            [0] => Weidemann
+        )
+
+    [bandenvoor] => Array
+        (
+            [0] => 550/45-22.5AS
+        )
+
+    [laadvermogen] => Array
+        (
+            [0] => 2,872.00
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 68500.00
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-194597_00.jpg|MCH-194597_01.jpg|MCH-194597_02.jpg|MCH-194597_03.jpg|MCH-194597_04.jpg|MCH-194597_05.jpg|MCH-194597_06.jpg
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-194597
+        )
+
+    [naam] => Array
+        (
+            [0] => Weidemann T4080 telescooplader
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 402
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => excl aanbouwdelen
+        )
+
+    [categorie] => Array
+        (
+            [0] => Knikladers
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2018
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [draaiuren] => Array
+        (
+            [0] => 1133
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 550/45-22.5AS
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [werkhoogte] => Array
+        (
+            [0] => 5.00
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-03-12
+        )
+
+    [merk] => Array
+        (
+            [0] => Weidemann
+        )
+
+    [bandenvoor] => Array
+        (
+            [0] => 550/45-22.5AS
+        )
+
+    [laadvermogen] => Array
+        (
+            [0] => 2,872.00
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 68500.00
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-194597_00.jpg|MCH-194597_01.jpg|MCH-194597_02.jpg|MCH-194597_03.jpg|MCH-194597_04.jpg|MCH-194597_05.jpg|MCH-194597_06.jpg
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+Weidemann T4080 telescooplader End Log
+VDW stro instrooier SBH-GM Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-194598
+        )
+
+    [naam] => Array
+        (
+            [0] => VDW stro instrooier SBH-GM
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 650
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => draaibare pijp
+        )
+
+    [categorie] => Array
+        (
+            [0] => Bedrijfsverzorging
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2015
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-01-25
+        )
+
+    [merk] => Array
+        (
+            [0] => Abemec
+        )
+
+    [elementen] => Array
+        (
+            [0] => 1.00
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-194598_00.jpg|MCH-194598_01.jpg|MCH-194598_02.jpg|MCH-194598_03.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 7250.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-194598
+        )
+
+    [naam] => Array
+        (
+            [0] => VDW stro instrooier SBH-GM
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 650
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => draaibare pijp
+        )
+
+    [categorie] => Array
+        (
+            [0] => Bedrijfsverzorging
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2015
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-01-25
+        )
+
+    [merk] => Array
+        (
+            [0] => Abemec
+        )
+
+    [elementen] => Array
+        (
+            [0] => 1.00
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-194598_00.jpg|MCH-194598_01.jpg|MCH-194598_02.jpg|MCH-194598_03.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 7250.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+VDW stro instrooier SBH-GM End Log
+JOZ reductor Start Log
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-119224
+        )
+
+    [naam] => Array
+        (
+            [0] => JOZ reductor
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => excl schuiven.
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 650
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [categorie] => Array
+        (
+            [0] => Bedrijfsverzorging
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-06-18
+        )
+
+    [merk] => Array
+        (
+            [0] => JOZ
+        )
+
+    [top] => Array
+        (
+            [0] => 
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-119224_00.JPG|MCH-119224_01.JPG
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 1950.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-119224
+        )
+
+    [naam] => Array
+        (
+            [0] => JOZ reductor
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => excl schuiven.
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 650
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [categorie] => Array
+        (
+            [0] => Bedrijfsverzorging
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-06-18
+        )
+
+    [merk] => Array
+        (
+            [0] => JOZ
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-119224_00.JPG|MCH-119224_01.JPG
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 1950.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+JOZ reductor End Log
+Schuitemaker Rapide 145 S Start Log
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-172218
+        )
+
+    [naam] => Array
+        (
+            [0] => Schuitemaker Rapide 145 S
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 430
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 38m3
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [categorie] => Array
+        (
+            [0] => Opraapwagens
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-12-22
+        )
+
+    [merk] => Array
+        (
+            [0] => Schuitemak
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [bandenachter] => Array
+        (
+            [0] =>  650/50R22,5 Vredest. Flotation Pr
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Occasioncenter
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2010
+        )
+
+    [bandenvoor] => Array
+        (
+            [0] =>  650/50R22,5 Vredest. Flotation Pr
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-172218_00.JPG|MCH-172218_01.JPG|MCH-172218_02.JPG|MCH-172218_03.JPG|MCH-172218_04.JPG|MCH-172218_05.JPG|MCH-172218_06.JPG|MCH-172218_07.JPG|MCH-172218_08.JPG|MCH-172218_09.JPG|MCH-172218_10.JPG|MCH-172218_11.JPG|MCH-172218_12.JPG|MCH-172218_13.JPG|MCH-172218_14.JPG|MCH-172218_15.JPG|MCH-172218_16.JPG|MCH-172218_17.JPG|MCH-172218_18.JPG|MCH-172218_19.JPG|MCH-172218_20.JPG|MCH-172218_21.JPG|MCH-172218_22.JPG|MCH-172218_23.JPG|MCH-172218_24.JPG|MCH-172218_25.JPG
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 29500.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0413 382185
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-172218
+        )
+
+    [naam] => Array
+        (
+            [0] => Schuitemaker Rapide 145 S
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 430
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 38m3
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [categorie] => Array
+        (
+            [0] => Opraapwagens
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-12-22
+        )
+
+    [merk] => Array
+        (
+            [0] => Schuitemak
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [bandenachter] => Array
+        (
+            [0] =>  650/50R22,5 Vredest. Flotation Pr
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Occasioncenter
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2010
+        )
+
+    [bandenvoor] => Array
+        (
+            [0] =>  650/50R22,5 Vredest. Flotation Pr
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-172218_00.JPG|MCH-172218_01.JPG|MCH-172218_02.JPG|MCH-172218_03.JPG|MCH-172218_04.JPG|MCH-172218_05.JPG|MCH-172218_06.JPG|MCH-172218_07.JPG|MCH-172218_08.JPG|MCH-172218_09.JPG|MCH-172218_10.JPG|MCH-172218_11.JPG|MCH-172218_12.JPG|MCH-172218_13.JPG|MCH-172218_14.JPG|MCH-172218_15.JPG|MCH-172218_16.JPG|MCH-172218_17.JPG|MCH-172218_18.JPG|MCH-172218_19.JPG|MCH-172218_20.JPG|MCH-172218_21.JPG|MCH-172218_22.JPG|MCH-172218_23.JPG|MCH-172218_24.JPG|MCH-172218_25.JPG
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 29500.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0413 382185
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+Schuitemaker Rapide 145 S End Log
+Schouten voerdoseerwagen VDW 210V Start Log
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-174062
+        )
+
+    [naam] => Array
+        (
+            [0] => Schouten voerdoseerwagen VDW 210V
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => Slechts 2 jaar gedraaid !! Voorlossend, weeginrichting
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 450
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 21 M3
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [categorie] => Array
+        (
+            [0] => Voermengwagens
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-02-01
+        )
+
+    [merk] => Array
+        (
+            [0] => Schouten
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 500/50R17
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Oploo
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2014
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-174062_00.JPG|MCH-174062_01.JPG|MCH-174062_02.JPG|MCH-174062_03.JPG|MCH-174062_04.JPG|MCH-174062_05.JPG|MCH-174062_06.JPG|mch-174062_07.JPG|mch-174062_08.JPG|mch-174062_09.JPG|mch-174062_10.JPG|mch-174062_11.JPG
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 9500.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0485 383800
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-174062
+        )
+
+    [naam] => Array
+        (
+            [0] => Schouten voerdoseerwagen VDW 210V
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => Slechts 2 jaar gedraaid !! Voorlossend, weeginrichting
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 450
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 21 M3
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [categorie] => Array
+        (
+            [0] => Voermengwagens
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-02-01
+        )
+
+    [merk] => Array
+        (
+            [0] => Schouten
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 500/50R17
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Oploo
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2014
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-174062_00.JPG|MCH-174062_01.JPG|MCH-174062_02.JPG|MCH-174062_03.JPG|MCH-174062_04.JPG|MCH-174062_05.JPG|MCH-174062_06.JPG|mch-174062_07.JPG|mch-174062_08.JPG|mch-174062_09.JPG|mch-174062_10.JPG|mch-174062_11.JPG
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 9500.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0485 383800
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 5-Goed
+        )
+
+)
+
+Schouten voerdoseerwagen VDW 210V End Log
+RMH voermengwagen 16m3 Start Log
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-178182
+        )
+
+    [naam] => Array
+        (
+            [0] => RMH voermengwagen 16m3
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => weeginrichting
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 450
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 16 m3
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [categorie] => Array
+        (
+            [0] => Voermengwagens
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-06-18
+        )
+
+    [merk] => Array
+        (
+            [0] => RMH
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 7.00-15
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Occasioncenter
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2006
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-178182_00.jpg|MCH-178182_01.JPG|MCH-178182_02.jpg|MCH-178182_03.JPG|MCH-178182_04.jpg|MCH-178182_05.JPG|MCH-178182_06.JPG|MCH-178182_07.JPG
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 9750.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0413 382185
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-178182
+        )
+
+    [naam] => Array
+        (
+            [0] => RMH voermengwagen 16m3
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => weeginrichting
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 450
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 16 m3
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [categorie] => Array
+        (
+            [0] => Voermengwagens
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-06-18
+        )
+
+    [merk] => Array
+        (
+            [0] => RMH
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 7.00-15
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Occasioncenter
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2006
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-178182_00.jpg|MCH-178182_01.JPG|MCH-178182_02.jpg|MCH-178182_03.JPG|MCH-178182_04.jpg|MCH-178182_05.JPG|MCH-178182_06.JPG|MCH-178182_07.JPG
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 9750.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0413 382185
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+RMH voermengwagen 16m3 End Log
+Peecon Biga 10 m3 Start Log
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-185838
+        )
+
+    [naam] => Array
+        (
+            [0] => Peecon Biga 10 m3
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 450
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => hydraulische laadklep, zonder weeginrichting
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 10 m3
+        )
+
+    [categorie] => Array
+        (
+            [0] => Voermengwagens
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-01-27
+        )
+
+    [merk] => Array
+        (
+            [0] => Peecon
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 7.00-12  dm
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Occasioncenter
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 1999
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-185838_00.jpg|MCH-185838_01.jpg|MCH-185838_02.jpg|MCH-185838_03.jpg|MCH-185838_04.jpg|MCH-185838_05.jpg|MCH-185838_06.jpg|MCH-185838_07.jpg|MCH-185838_08.jpg|MCH-185838_09.jpg|MCH-185838_10.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 2250.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0413 382185
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-185838
+        )
+
+    [naam] => Array
+        (
+            [0] => Peecon Biga 10 m3
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 450
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => hydraulische laadklep, zonder weeginrichting
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 10 m3
+        )
+
+    [categorie] => Array
+        (
+            [0] => Voermengwagens
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2021-01-27
+        )
+
+    [merk] => Array
+        (
+            [0] => Peecon
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 7.00-12  dm
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Occasioncenter
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 1999
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-185838_00.jpg|MCH-185838_01.jpg|MCH-185838_02.jpg|MCH-185838_03.jpg|MCH-185838_04.jpg|MCH-185838_05.jpg|MCH-185838_06.jpg|MCH-185838_07.jpg|MCH-185838_08.jpg|MCH-185838_09.jpg|MCH-185838_10.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 2250.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0413 382185
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+)
+
+Peecon Biga 10 m3 End Log
+Krone BIG M maaimachine Start Log
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-186495
+        )
+
+    [naam] => Array
+        (
+            [0] => Krone BIG M maaimachine
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 300
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => Compleet in orde gemaakt
+        )
+
+    [categorie] => Array
+        (
+            [0] => Maaimachines
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-06-18
+        )
+
+    [merk] => Array
+        (
+            [0] => Krone
+        )
+
+    [top] => Array
+        (
+            [0] => 
+        )
+
+    [draaiuren] => Array
+        (
+            [0] => 2600
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Occasioncenter
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2008
+        )
+
+    [elementen] => Array
+        (
+            [0] => 3.00
+        )
+
+    [prijs_op_aanvraag] => Array
+        (
+            [0] => Prijs tonen
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-186495_00.jpg|MCH-186495_01.jpg|MCH-186495_02.jpg|MCH-186495_03.jpg|MCH-186495_04.jpg|MCH-186495_05.jpg|MCH-186495_06.jpg|MCH-186495_07.jpg|MCH-186495_08.jpg|MCH-186495_09.jpg|MCH-186495_10.jpg|MCH-186495_11.jpg|MCH-186495_12.jpg|MCH-186495_13.jpg|MCH-186495_14.jpg|MCH-186495_15.jpg|MCH-186495_16.jpg|MCH-186495_17.jpg|MCH-186495_18.jpg|MCH-186495_19.jpg|MCH-186495_20.jpg|MCH-186495_21.jpg|MCH-186495_22.jpg|MCH-186495_23.jpg|MCH-186495_24.jpg|MCH-186495_25.jpg|MCH-186495_26.jpg|MCH-186495_27.jpg
+            [1] => MCH-186495_00.jpg|MCH-186495_01.jpg|MCH-186495_02.jpg|MCH-186495_03.jpg|MCH-186495_04.jpg|MCH-186495_05.jpg|MCH-186495_06.jpg|MCH-186495_07.jpg|MCH-186495_08.jpg|MCH-186495_09.jpg|MCH-186495_10.jpg|MCH-186495_11.jpg|MCH-186495_12.jpg|MCH-186495_13.jpg|MCH-186495_14.jpg|MCH-186495_15.jpg|MCH-186495_16.jpg|MCH-186495_17.jpg|MCH-186495_18.jpg|MCH-186495_19.jpg|MCH-186495_20.jpg|MCH-186495_21.jpg|MCH-186495_22.jpg|MCH-186495_23.jpg|MCH-186495_24.jpg|MCH-186495_25.jpg|MCH-186495_26.jpg|MCH-186495_27.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 75000.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0413 382185
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-186495
+        )
+
+    [naam] => Array
+        (
+            [0] => Krone BIG M maaimachine
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 300
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => Compleet in orde gemaakt
+        )
+
+    [categorie] => Array
+        (
+            [0] => Maaimachines
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-06-18
+        )
+
+    [merk] => Array
+        (
+            [0] => Krone
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [draaiuren] => Array
+        (
+            [0] => 2600
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 5-Goed
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Occasioncenter
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2008
+        )
+
+    [elementen] => Array
+        (
+            [0] => 3.00
+        )
+
+    [prijs_op_aanvraag] => Array
+        (
+            [0] => Prijs tonen
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-186495_00.jpg|MCH-186495_01.jpg|MCH-186495_02.jpg|MCH-186495_03.jpg|MCH-186495_04.jpg|MCH-186495_05.jpg|MCH-186495_06.jpg|MCH-186495_07.jpg|MCH-186495_08.jpg|MCH-186495_09.jpg|MCH-186495_10.jpg|MCH-186495_11.jpg|MCH-186495_12.jpg|MCH-186495_13.jpg|MCH-186495_14.jpg|MCH-186495_15.jpg|MCH-186495_16.jpg|MCH-186495_17.jpg|MCH-186495_18.jpg|MCH-186495_19.jpg|MCH-186495_20.jpg|MCH-186495_21.jpg|MCH-186495_22.jpg|MCH-186495_23.jpg|MCH-186495_24.jpg|MCH-186495_25.jpg|MCH-186495_26.jpg|MCH-186495_27.jpg
+            [1] => MCH-186495_00.jpg|MCH-186495_01.jpg|MCH-186495_02.jpg|MCH-186495_03.jpg|MCH-186495_04.jpg|MCH-186495_05.jpg|MCH-186495_06.jpg|MCH-186495_07.jpg|MCH-186495_08.jpg|MCH-186495_09.jpg|MCH-186495_10.jpg|MCH-186495_11.jpg|MCH-186495_12.jpg|MCH-186495_13.jpg|MCH-186495_14.jpg|MCH-186495_15.jpg|MCH-186495_16.jpg|MCH-186495_17.jpg|MCH-186495_18.jpg|MCH-186495_19.jpg|MCH-186495_20.jpg|MCH-186495_21.jpg|MCH-186495_22.jpg|MCH-186495_23.jpg|MCH-186495_24.jpg|MCH-186495_25.jpg|MCH-186495_26.jpg|MCH-186495_27.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 75000.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0413 382185
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 5-Goed
+        )
+
+)
+
+Krone BIG M maaimachine End Log
+Fendt 415 Vario tms Start Log
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-188606
+        )
+
+    [naam] => Array
+        (
+            [0] => Fendt 415 Vario tms
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 370
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => frontlader Fendt Cargo 4x80DW
+        )
+
+    [categorie] => Array
+        (
+            [0] => Tractoren
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-12-23
+        )
+
+    [merk] => Array
+        (
+            [0] => Fendt
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [draaiuren] => Array
+        (
+            [0] => 9015
+        )
+
+    [pk] => Array
+        (
+            [0] => 155
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 650/65R38
+        )
+
+    [cabine] => Array
+        (
+            [0] => Cabine geveerd + airco
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [conditiehef] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [vooras] => Array
+        (
+            [0] => 4 WD + Vooras vering
+        )
+
+    [hefinrichtingachter] => Array
+        (
+            [0] => Electronisch
+        )
+
+    [aftakas] => Array
+        (
+            [0] => 540-750-1000
+        )
+
+    [hydraulischeventielen] => Array
+        (
+            [0] => 3 DW+LS
+        )
+
+    [aanhangerrem] => Array
+        (
+            [0] => Hydraulisch
+        )
+
+    [hefinrichtingvoor] => Array
+        (
+            [0] => -
+        )
+
+    [rijsnelheidmax] => Array
+        (
+            [0] => 53
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Mariënberg
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2011
+        )
+
+    [bandenvoor] => Array
+        (
+            [0] => 540/65R26
+        )
+
+    [prijs_op_aanvraag] => Array
+        (
+            [0] => Op aanvraag
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-188606_00.JPG|MCH-188606_01.JPG|MCH-188606_02.JPG|MCH-188606_03.JPG|MCH-188606_04.JPG|MCH-188606_05.JPG|MCH-188606_06.JPG|MCH-188606_07.JPG|MCH-188606_08.JPG|MCH-188606_09.JPG|MCH-188606_10.jpg|MCH-188606_11.jpg|MCH-188606_12.jpg|MCH-188606_13.jpg|MCH-188606_14.jpg|MCH-188606_15.jpg|MCH-188606_16.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 54000.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0523 251232
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-188606
+        )
+
+    [naam] => Array
+        (
+            [0] => Fendt 415 Vario tms
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 370
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => frontlader Fendt Cargo 4x80DW
+        )
+
+    [categorie] => Array
+        (
+            [0] => Tractoren
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-12-23
+        )
+
+    [merk] => Array
+        (
+            [0] => Fendt
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [draaiuren] => Array
+        (
+            [0] => 9015
+        )
+
+    [pk] => Array
+        (
+            [0] => 155
+        )
+
+    [bandenachter] => Array
+        (
+            [0] => 650/65R38
+        )
+
+    [cabine] => Array
+        (
+            [0] => Cabine geveerd + airco
+        )
+
+    [conditiemotor] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [conditiehef] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [vooras] => Array
+        (
+            [0] => 4 WD + Vooras vering
+        )
+
+    [hefinrichtingachter] => Array
+        (
+            [0] => Electronisch
+        )
+
+    [aftakas] => Array
+        (
+            [0] => 540-750-1000
+        )
+
+    [hydraulischeventielen] => Array
+        (
+            [0] => 3 DW+LS
+        )
+
+    [aanhangerrem] => Array
+        (
+            [0] => Hydraulisch
+        )
+
+    [hefinrichtingvoor] => Array
+        (
+            [0] => -
+        )
+
+    [rijsnelheidmax] => Array
+        (
+            [0] => 53
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Mariënberg
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2011
+        )
+
+    [bandenvoor] => Array
+        (
+            [0] => 540/65R26
+        )
+
+    [prijs_op_aanvraag] => Array
+        (
+            [0] => Op aanvraag
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-188606_00.JPG|MCH-188606_01.JPG|MCH-188606_02.JPG|MCH-188606_03.JPG|MCH-188606_04.JPG|MCH-188606_05.JPG|MCH-188606_06.JPG|MCH-188606_07.JPG|MCH-188606_08.JPG|MCH-188606_09.JPG|MCH-188606_10.jpg|MCH-188606_11.jpg|MCH-188606_12.jpg|MCH-188606_13.jpg|MCH-188606_14.jpg|MCH-188606_15.jpg|MCH-188606_16.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 54000.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 0523 251232
+        )
+
+)
+
+Fendt 415 Vario tms End Log
+Wifo buis balenklem Start Log
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-189049
+        )
+
+    [naam] => Array
+        (
+            [0] => Wifo buis balenklem
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => buisklem
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 650
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [categorie] => Array
+        (
+            [0] => Bedrijfsverzorging
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-06-18
+        )
+
+    [merk] => Array
+        (
+            [0] => Wifo
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [elementen] => Array
+        (
+            [0] => 100.00
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-189049_00.JPG|MCH-189049_01.JPG|MCH-189049_02.JPG
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 750.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-189049
+        )
+
+    [naam] => Array
+        (
+            [0] => Wifo buis balenklem
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => buisklem
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 650
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [categorie] => Array
+        (
+            [0] => Bedrijfsverzorging
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-06-18
+        )
+
+    [merk] => Array
+        (
+            [0] => Wifo
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [elementen] => Array
+        (
+            [0] => 100.00
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-189049_00.JPG|MCH-189049_01.JPG|MCH-189049_02.JPG
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 750.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+Wifo buis balenklem End Log
+Trioliet hefmast Start Log
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-189052
+        )
+
+    [naam] => Array
+        (
+            [0] => Trioliet hefmast
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 420
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [werkhoogte] => Array
+        (
+            [0] => 1.40
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [categorie] => Array
+        (
+            [0] => Uitkuilapparatuur
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-06-18
+        )
+
+    [merk] => Array
+        (
+            [0] => Trioliet
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2015
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-189052_00.JPG
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 1200.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+
+Array
+(
+    [art_code] => Array
+        (
+            [0] => MCH-189052
+        )
+
+    [naam] => Array
+        (
+            [0] => Trioliet hefmast
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 420
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [werkhoogte] => Array
+        (
+            [0] => 1.40
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [categorie] => Array
+        (
+            [0] => Uitkuilapparatuur
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-06-18
+        )
+
+    [merk] => Array
+        (
+            [0] => Trioliet
+        )
+
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => 
+      
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2015
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-189052_00.JPG
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 1200.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+)
+
+Trioliet hefmast End Log
+USA Equipment 700CF Start Log
+Array
+(
+    [top] => Array
+        (
+            [0] => Nee
+        )
+
+    [art_code] => Array
+        (
+            [0] => MCH-192311
+        )
+
+    [naam] => Array
+        (
+            [0] => USA Equipment 700CF
+        )
+
+    [ag_code] => Array
+        (
+            [0] => 450
+        )
+
+    [beschrijving] => Array
+        (
+            [0] => met vertragingskast
+        )
+
+    [categorie] => Array
+        (
+            [0] => Voermengwagens
+        )
+
+    [btw_marge] => Array
+        (
+            [0] => btw
+        )
+
+    [nieuw] => Array
+        (
+            [0] => FALSE
+        )
+
+    [contact_persoon] => Array
+        (
+            [0] => Dijkema, Niek
+        )
+
+    [inhoud] => Array
+        (
+            [0] => 20m3
+        )
+
+    [lastChangeDate] => Array
+        (
+            [0] => 2020-08-17
+        )
+
+    [merk] => Array
+        (
+            [0] => Abemec
+        )
+
+    [conditietransmissie] => Array
+        (
+            [0] => 4-Normaal
+        )
+
+    [uiterlijk] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+    [contact_filiaal] => Array
+        (
+            [0] => Abemec Onderdendam
+        )
+
+    [contact_mobiel] => Array
+        (
+            [0] => 06-51976028
+        )
+
+    [bouwjaar] => Array
+        (
+            [0] => 2005
+        )
+
+    [elementen] => Array
+        (
+            [0] => 2.00
+        )
+
+    [IMG] => Array
+        (
+            [0] => MCH-192311_00.jpg|MCH-192311_01.jpg|MCH-192311_02.jpg|MCH-192311_03.jpg|MCH-192311_04.jpg|MCH-192311_05.jpg|MCH-192311_06.jpg|MCH-192311_07.jpg|MCH-192311_08.jpg|MCH-192311_09.jpg
+        )
+
+    [prijsexcl] => Array
+        (
+            [0] => 5500.00
+        )
+
+    [contact_telefoon] => Array
+        (
+            [0] => 050 3049141
+        )
+
+    [conditieslijtdelen] => Array
+        (
+            [0] => 3-Redelijk
+        )
+
+    [inline_featured_image] => Array
+        (
+            [0] => 0
+        )
+
+)
+

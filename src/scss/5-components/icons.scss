@@ -1,0 +1,22 @@
+.icon-chevron {
+    width: 8px;
+    height: 11px;
+
+    fill: get-color(brand, primary);
+
+    &--left {
+        transform: rotateZ(90deg);
+    }
+
+    &--right {
+        transform: rotateZ(270deg);
+    }
+
+    &--up {
+        transform: rotateZ(180deg);
+    }
+
+    &--white {
+        fill: get-color(greyscales, white);
+    }
+}

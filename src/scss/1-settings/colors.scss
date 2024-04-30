@@ -1,0 +1,36 @@
+/*
+ * From lightest to darkest:
+ * Xlight
+ * light
+ * mid-light
+ * base
+ * mid-dark
+ * dark
+ * Xdark
+ *
+ * Use like this:
+ * color: get-color(brand, light);
+**/
+
+// Color palette
+$colors: (
+    brand: (
+        primary: #007a3d,
+        secondary: #ffe100,
+        light: #F1EEE9,
+        error: #D7220D
+    ),
+    greyscales: (
+        white: #ffffff,
+        Xlight: #ededed,
+        light: #c4c4c4,
+        base: #666666,
+        dark: #393939,
+        Xdark: rgb(100, 86, 82),
+        black: #000000
+    )
+);
+
+@function get-color($color, $tone: "base") {
+    @return map-get(map-get($colors, $color), $tone);
+}

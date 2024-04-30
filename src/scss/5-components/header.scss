@@ -1,0 +1,131 @@
+.header {
+    position: relative;
+    z-index: 100;
+
+    &__main {
+        padding: 20px 0;
+    }
+
+    &__logo {
+        display: inline-block;
+        margin-right: 1rem;
+        flex-shrink: 0;
+
+        @include media-breakpoint-up(lg) {
+            margin-right: 0;
+        }
+
+        svg {
+            width: 121px;
+            height: 21px;
+
+            @include media-breakpoint-up(lg) {
+                width: 242px;
+                height: 43px;
+            }
+        }
+
+        &__slogan {
+            display: block;
+
+            color: get-color(brand, primary);
+            font-size: pxtorem(10px);
+            line-height: 1em;
+            font-weight: 800;
+            text-transform: uppercase;
+
+            @include media-breakpoint-up(lg) {
+                font-size: pxtorem(18px);
+            }
+        }
+    }
+
+    &__content {
+        display: flex;
+        align-items: center;
+        margin-left: auto;
+
+        text-align: right;
+
+        @include media-breakpoint-up(lg) {
+            display: block;
+        }
+    }
+
+    &__toplinks {
+        display: none;
+        flex-wrap: wrap;
+
+        margin-bottom: 18px;
+
+        @include media-breakpoint-up(lg) {
+            display: flex;
+        }
+
+        &__item {
+            margin: 0 pxtorem(14px);
+            font-weight: 500;
+
+            a {
+                color: get-color(greyscales, dark);
+                font-size: pxtorem(14px);
+
+                &:hover,
+                &:focus,
+                &:focus:active {
+                    text-decoration: underline;
+                }
+            }
+
+            &:last-of-type {
+                margin-right: 0;
+            }
+
+            &--highlight {
+                font-weight: 700;
+                text-transform: uppercase;
+
+                a {
+                    color: get-color(brand, primary);
+                }
+            }
+        }
+    }
+
+    &__search {
+        position: relative;
+
+        &__input {
+            display: inline-block;
+            padding: 11px 32px 11px 11px;
+            max-width: 216px;
+
+            border: 2px solid get-color(greyscales, light);
+
+            font-size: pxtorem(12px);
+
+            appearance: none;
+
+            &::placeholder {
+                font-style: italic;
+                color: get-color(greyscales, light);
+            }
+        }
+
+        &__submit {
+            position: absolute;
+            right: 11px;
+            top: 11px;
+
+            background: none;
+            border: none;
+
+            svg {
+                width: 18px;
+                height: 18px;
+
+                fill: get-color(brand, primary);
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+.label {
+    display: inline-block;
+    padding: 6px 8px;
+    margin-bottom: 0.5rem;
+
+    background: get-color(brand, primary);
+
+    color: get-color(greyscales, white);
+    font-size: pxtorem(12px);
+    font-weight: 700;
+    line-height: 1;
+    text-transform: uppercase;
+
+    &--alt {
+        background: get-color(brand, secondary);
+        color: get-color(brand, primary);
+    }
+}

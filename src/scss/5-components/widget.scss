@@ -1,0 +1,50 @@
+.widget {
+    position: relative;
+
+    padding: pxtorem(35px);
+    margin-bottom: 30px;
+
+    background: get-color(greyscales, Xlight);
+
+    &__title {
+        margin-bottom: 1rem;
+
+        font-size: pxtorem(16px);
+        line-height: pxtorem(21px);
+    }
+
+    p {
+        color: get-color(brand, primary);
+    }
+
+    ul {
+        padding: 0;
+
+        list-style-type: none;
+
+        li {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+
+            color: get-color(brand, primary);
+            font-size: pxtorem(14px);
+            line-height: pxtorem(21px);
+
+            > span {
+                flex: 1;
+            }
+        }
+    }
+
+    &--image {
+        min-height: 245px;
+        padding: pxtorem(70px) pxtorem(140px) pxtorem(35px) pxtorem(35px);
+
+        img {
+            position: absolute;
+            bottom: 0;
+            right: 0;
+        }
+    }
+}

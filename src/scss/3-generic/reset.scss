@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+}
+
+ul {
+    list-style-type: none;
+    &:not([class]) {
+        list-style-type: disc;
+        padding-left: 2rem;
+        margin-bottom: 1rem;
+    }
+}
+
+ol {
+    list-style-type: none;
+    &:not([class]) {
+        list-style-type: decimal;
+        padding-left: 2rem;
+        margin-bottom: 1rem;
+    }
+}
+
+// For lists rendered by RTE's
+p {
+    ol li {
+        list-style-type: decimal;
+    }
+
+    ul li {
+        list-style-type: disc;
+    }
+}
+
+a {
+    text-decoration: none;
+}

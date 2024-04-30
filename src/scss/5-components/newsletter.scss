@@ -1,0 +1,33 @@
+.newsletter {
+    &__form {
+        display: flex;
+        margin-bottom: 30px;
+    }
+
+    &__input {
+        padding: 11px;
+
+        border: none;
+        background: get-color(greyscales, Xlight);
+
+        color: get-color(brand, primary);
+
+        &::placeholder {
+            color: get-color(brand, primary);
+            font-style: italic;
+        }
+    }
+
+    &__submit {
+        padding: 11px;
+
+        border: none;
+        background: get-color(greyscales, white);
+
+        color: get-color(brand, primary);
+        font-weight: 700;
+        text-transform: uppercase;
+
+        cursor: pointer;
+    }
+}

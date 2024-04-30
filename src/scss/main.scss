@@ -1,0 +1,64 @@
+// 3th Party
+@import "glide/glide.core.scss";
+
+// SETTINGS
+@import "1-settings/grid";
+@import "1-settings/variables";
+@import "1-settings/colors";
+@import "1-settings/fonts";
+
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/mixins/breakpoints";
+@import "bootstrap/scss/mixins/screen-reader";
+@import "bootstrap/scss/utilities/display";
+@import "bootstrap/scss/utilities/flex";
+@import "bootstrap/scss/utilities/spacing";
+@import "bootstrap/scss/utilities/screenreaders";
+
+// TOOLS
+@import "2-tools/mixins";
+@import "2-tools/z-index";
+@import "2-tools/grid-framework";
+@import "2-tools/functions";
+
+// GENERIC
+@import "3-generic/reset";
+@import "3-generic/box-sizing";
+
+// ELEMENTS
+@import "4-elements/forms/input";
+@import "4-elements/forms/label";
+@import "4-elements/base";
+@import "4-elements/typography";
+
+// COMPONENTS
+@import "5-components/aside";
+@import "5-components/article";
+@import "5-components/banner";
+@import "5-components/breadcrumbs";
+@import "5-components/buttons";
+@import "5-components/card";
+@import "5-components/checkbox";
+@import "5-components/clients";
+@import "5-components/filters";
+@import "5-components/footer";
+@import "5-components/form";
+@import "5-components/header";
+@import "5-components/icons";
+@import "5-components/label";
+@import "5-components/navigation";
+@import "5-components/news-item";
+@import "5-components/news-list";
+@import "5-components/newsletter";
+@import "5-components/product";
+@import "5-components/product-detail";
+@import "5-components/quicklinks";
+@import "5-components/radio";
+@import "5-components/section";
+@import "5-components/slider";
+@import "5-components/widget";
+
+// TRUMPS
+@import "6-trumps/helpers";
+@import "6-trumps/print";
