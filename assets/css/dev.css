@@ -1,0 +1,978 @@
+/*fonts*/
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-ExtraBold.eot');
+    src: url('../fonts/Montserrat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-ExtraBold.woff2') format('woff2'),
+        url('../fonts/Montserrat-ExtraBold.woff') format('woff'),
+        url('../fonts/Montserrat-ExtraBold.ttf') format('truetype'),
+        url('../fonts/Montserrat-ExtraBold.svg#Montserrat-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Bold.eot');
+    src: url('../fonts/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-Bold.woff2') format('woff2'),
+        url('../fonts/Montserrat-Bold.woff') format('woff'),
+        url('../fonts/Montserrat-Bold.ttf') format('truetype'),
+        url('../fonts/Montserrat-Bold.svg#Montserrat-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-SemiBold.eot');
+    src: url('../fonts/Montserrat-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-SemiBold.woff2') format('woff2'),
+        url('../fonts/Montserrat-SemiBold.woff') format('woff'),
+        url('../fonts/Montserrat-SemiBold.ttf') format('truetype'),
+        url('../fonts/Montserrat-SemiBold.svg#Montserrat-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Regular.eot');
+    src: url('../fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-Regular.woff2') format('woff2'),
+        url('../fonts/Montserrat-Regular.woff') format('woff'),
+        url('../fonts/Montserrat-Regular.ttf') format('truetype'),
+        url('../fonts/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Medium.eot');
+    src: url('../fonts/Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Montserrat-Medium.woff2') format('woff2'),
+        url('../fonts/Montserrat-Medium.woff') format('woff'),
+        url('../fonts/Montserrat-Medium.ttf') format('truetype'),
+        url('../fonts/Montserrat-Medium.svg#Montserrat-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/*fonts*/
+.container {
+  max-width: 1170px !important;
+}
+.scholingsaanbod-textarea h1 {
+  font-family: "Montserrat";
+  text-transform: uppercase;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 32px;
+  font-style: normal;
+  padding-bottom: 28px;
+  color: #007a3d;
+}
+.scholingsaanbod-textarea {
+  margin-bottom: 17px;
+}
+.scholingsaanbod-textarea p {
+  font-family: "Montserrat";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  font-style: normal;
+  color: #39393b;
+  max-width: 769px;
+  width: 100%;
+}
+div#accordiontraining .card:after {
+  content: unset;
+}
+div#accordiontraining .card {
+  margin: 0;
+  background: transparent;
+  border-left: unset;
+  border-right: unset;
+  border-color: #ededed;
+}
+div#accordiontraining .card .card-header {
+  background: transparent;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid #ededed;
+}
+.training_acco_title h2 {
+  font-family: "Montserrat";
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 22px;
+  font-style: normal;
+  text-align: left;
+  color: #007a3d;
+}
+.training_acco_title {
+  display: flex;
+  align-items: center;
+}
+div#accordiontraining .training_btn {
+  text-align: end;
+}
+.training_btn a.btn {
+  background-color: #ffe100;
+  padding: 14px 45px;
+  padding-left: 20px;
+}
+.training_btn button.btn,
+.training_btn a.btn {
+  border-radius: unset;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 14px;
+  font-style: normal;
+  text-align: left;
+  color: #007a3d;
+  font-family: "Montserrat";
+  outline: none;
+  align-items: center;
+  display: inline-flex;
+  text-decoration: none;
+}
+p.date-head span.t_arrow,
+.training_btn .t_arrow {
+  width: 0;
+  height: 0;
+  border-top: 7px solid transparent;
+  border-left: 10px solid;
+  border-bottom: 7px solid transparent;
+  display: inline-block;
+  margin-right: 16px;
+  transition: all 0.5s;
+}
+.training_btn button.btn span.t_arrow {
+  border-left-color: #ffe100;
+}
+button.btn.btn-link:not(.collapsed) span.t_arrow {
+  transform: rotate(90deg);
+}
+.training_acco_content table td:first-child {
+  white-space: nowrap;
+  color: #007a3d;
+  font-weight: bold;
+  padding-left: 0;
+}
+.training_acco_content table tr:last-child p {
+  margin-bottom: 0;
+}
+.training_acco_content table td,
+.training_acco_content p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  font-style: normal;
+  text-align: left;
+  color: #393939;
+  font-family: "Montserrat";
+}
+section.section.scholingsaanbod {
+  margin-bottom: 50px;
+  padding-left: 0;
+  padding-right: 0;
+}
+.training_btn button.btn {
+  margin-right: 34px;
+  padding-left: 0;
+}
+.pagination ul.page-numbers {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+  list-style: none;
+  border-radius: 0.25rem;
+}
+.pagination ul.page-numbers li:hover a,
+.pagination ul.page-numbers li span.page-numbers.current {
+  color: #fff;
+  text-decoration: none;
+  background-color: #347844;
+  border-color: #347844;
+}
+.pagination ul.page-numbers li span,
+.pagination ul.page-numbers li a {
+  position: relative;
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin-left: -1px;
+  line-height: 1.25;
+  color: #347844;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+ul.footer__bottom__links {
+  flex-wrap: wrap;
+}
+div#accordiontraining .card .card-header {
+  transition: border-width 0.5s;
+}
+div#accordiontraining .card.parentcollapse .card-header {
+  border-bottom: 0;
+}
+div#accordiontraining .card .card-body {
+  padding-top: 0;
+}
+
+/* jaarkalender */
+.jaarkalender-acco .training_acco_empty1,
+.jaarkalender-acco .date-head-col {
+  display: flex;
+  align-items: baseline;
+}
+
+.date-head-col p.date-head {
+  padding: 17px 15px 14px 15px;
+  min-width: 98px;
+  background-color: #ededed;
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 14px;
+  color: #007a3d;
+  position: relative;
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+p.date-head span.t_arrow {
+  border-left-color: #ffe100;
+  transform: rotate(90deg) translate(0, -50%);
+  position: absolute;
+  top: 0;
+  left: calc(50% - 12px);
+}
+
+.jaarkalender-acco .training_acco_title {
+  flex-wrap: wrap;
+}
+.jaarkalender-acco .header-date-location {
+  display: flex;
+  margin-top: 10px;
+  padding-left: 0;
+}
+.header-date-location p {
+  font-family: "Montserrat";
+  padding-right: 18px;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 14px;
+  font-style: normal;
+  text-align: left;
+  color: #666666;
+  margin-bottom: 0;
+  display: flex;
+  align-items: center;
+}
+.jaarkalender-acco .training_acco_title h2 {
+  padding-left: 0;
+}
+.header-date-location p svg,
+p.header-date-time svg {
+  height: 15px;
+  margin-right: 10px;
+}
+
+.heept-info {
+  background-color: #ededed;
+  display: flex;
+  min-width: 376px;
+  min-height: 233px;
+  transition: box-shadow 0.3s;
+}
+.heept-info:hover {
+  box-shadow: 0 0 11px rgb(33 33 33 / 20%);
+}
+.heept-info .heept-text h3 {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 22px;
+  font-style: normal;
+  text-align: left;
+  color: #007a3d;
+  font-family: "Montserrat";
+  margin-bottom: 24px;
+}
+.heept-info .heept-text p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  font-style: normal;
+  text-align: left;
+  color: #007a3d;
+  font-family: "Montserrat";
+}
+.heept-info .heept-text * {
+  width: 100%;
+}
+.heept-info .heept-text {
+  max-width: calc(100% - 127px);
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-left: 40px;
+  padding-right: 26px;
+}
+.aanmelden-form {
+  max-width: calc(100% - 376px);
+  width: 100%;
+  padding-right: 122px;
+}
+.aanmelden-heept-info {
+  max-width: 376px;
+  width: 100%;
+}
+.aanmelden-heept-info .heept-img {
+  background-repeat: no-repeat;
+  width: 127px;
+  background-position: bottom;
+  background-size: contain;
+}
+.aanmelden-form.scholingsaanbod-textarea p {
+  padding-left: 15px;
+}
+.aanmelden-form-inn hr {
+  background-color: #ededed;
+}
+.aanmelden-form-inn .form-group {
+  padding-top: 30px;
+}
+.aanmelden-form-inn .form-group label {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 22px;
+  font-style: normal;
+  text-align: left;
+  color: #007a3d;
+}
+.aanmelden-form-inn select,
+.aanmelden-form-inn input:not([type="submit"]) {
+  padding: 10.5px;
+  border: 1px solid #707070;
+  background-color: transparent;
+  color: #666666;
+  font-style: normal;
+  font-family: "Montserrat";
+}
+.training_btn a.btn:hover {
+  background-color: #007a3d;
+  color: #fff;
+}
+.aanmelden-form-inn .form-inner-btn {
+  align-items: center;
+  display: flex;
+}
+.form-inner-btn input#btn-sub {
+  max-width: 231px;
+}
+.form-inner-btn span.t_arrow {
+  position: absolute;
+  left: 35px;
+  width: 0;
+  height: 0;
+  border-top: 7px solid transparent;
+  border-left: 10px solid;
+  border-bottom: 7px solid transparent;
+  display: inline-block;
+  margin-right: 16px;
+  transition: all 0.5s;
+}
+.form-inner-btn input#btn-sub {
+  max-width: 231px;
+  background-color: #ffe100;
+  border: unset;
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 14px;
+  font-style: normal;
+  color: #007a3d;
+  font-family: "Montserrat";
+  padding: 13px 15px 13px 44px;
+  cursor: pointer;
+}
+.aanmelden-form-inn select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position-x: 98%;
+  background-position-y: 6px;
+  padding-right: 40px;
+  outline: none;
+}
+section.section.aanmelden-choling {
+  margin-bottom: 50px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+@media only screen and (min-width: 1025px) {
+  .jaarkalender-acco .card .training_btn {
+    max-width: calc(42% - 56px);
+    width: 100%;
+  }
+  .jaarkalender-acco .training_acco_empty1,
+  .jaarkalender-acco .date-head-col {
+    max-width: 112px;
+    width: 100%;
+  }
+  .jaarkalender-acco .training_acco_content,
+  .jaarkalender-acco .training_acco_title {
+    max-width: calc(58% - 56px);
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 992px) {
+}
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+  .jaarkalender-acco .card .training_btn {
+    max-width: calc(44% - 56px);
+    width: 100%;
+  }
+  .jaarkalender-acco .training_acco_empty1,
+  .jaarkalender-acco .date-head-col {
+    max-width: 112px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+  }
+  .jaarkalender-acco .training_acco_content,
+  .jaarkalender-acco .training_acco_title {
+    max-width: calc(56% - 56px);
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 1300px) {
+  .aanmelden-form {
+    padding-right: 80px;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  .training_btn button.btn {
+    margin-right: 20px;
+  }
+  .training_btn a.btn {
+    padding: 14px 22px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  div#accordiontraining .training_btn {
+    text-align: left;
+    padding-left: 0;
+    margin-top: 15px;
+  }
+  .scholingsaanbod-textarea h1 {
+    padding-bottom: 10px;
+  }
+  .jaarkalender-acco .date-head-col {
+    max-width: 112px;
+    margin-right: 16px;
+  }
+  .jaarkalender-acco .card .training_btn {
+    max-width: 100%;
+  }
+  .jaarkalender-acco .training_acco_title {
+    max-width: calc(100% - 116px);
+  }
+  .aanmelden-form {
+    padding-right: 0;
+    max-width: 100%;
+    order: 2;
+  }
+  .aanmelden-heept-info {
+    max-width: 100%;
+    margin: 0 15px;
+    margin-bottom: 25px;
+  }
+  .aanmelden-heept-info .heept-info {
+    justify-content: space-between;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .jaarkalender-acco .training_acco_content {
+    max-width: 100%;
+    flex: 0 0 100%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .jaarkalender-acco .date-head-col {
+    margin-bottom: 16px;
+  }
+  .jaarkalender-acco .training_acco_title {
+    max-width: 100%;
+  }
+  .aanmelden-form-inn .form-group {
+    padding-top: 20px;
+  }
+}
+@media only screen and (max-width: 426px) {
+  .aanmelden-heept-info .heept-info {
+    justify-content: end;
+    min-width: unset;
+    position: relative;
+  }
+  .heept-info .heept-text {
+    max-width: 100%;
+    position: absolute;
+    margin: 15px;
+    bottom: 0;
+    padding: 16px;
+    background-color: #ffffffba;
+  }
+  .heept-info .heept-text h3 {
+    margin-bottom: 15px;
+  }
+}
+@media only screen and (max-width: 430px) {
+  .scholingsaanbod-textarea h1 {
+    font-size: 24px;
+  }
+  .training_acco_content table td:nth-child(2) {
+    min-width: 200px;
+  }
+  .training_acco_content table td:first-child {
+    white-space: break-spaces;
+  }
+}
+@media only screen and (max-width: 424px) {
+  .training_btn button.btn {
+    margin-bottom: 10px;
+  }
+}
+
+/* 07-03-23 menu css */
+
+.header nav ul.nav__list {
+  margin: 0;
+}
+
+.header__search__input,
+.header__logo__slogan,
+.header__toplinks__item a,
+.header nav ul.nav__list a {
+  font-family: Montserrat, sans-serif;
+}
+
+.header__logo:hover {
+  text-decoration: none;
+}
+
+.header nav ul.nav__list a:hover {
+  text-decoration: none;
+}
+
+.header__toplinks__item a:hover {
+  color: #393939;
+}
+
+.header__search__input {
+  line-height: initial;
+}
+
+.header .header__content .header__search__submit {
+  line-height: initial;
+  font-size: inherit;
+  font-family: Montserrat, sans-serif;
+}
+.header__toplinks__item {
+  display: inline-flex;
+}
+
+nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item > a {
+  width: 100%;
+}
+nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  /*    align-items: center;*/
+}
+
+nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item .icon {
+  width: 28px;
+  /*    height: 34px;*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #007a3d;
+}
+
+nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item .icon svg {
+  transition: all 0.3s ease-in-out;
+}
+
+nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item .icon svg {
+  fill: currentColor;
+}
+
+@media (min-width: 992px) {
+  nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item {
+    flex-wrap: nowrap;
+  }
+
+  nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item > ul.nav__sub {
+    position: absolute;
+    top: 0%;
+    left: 100%;
+    background: #ededed;
+    /* transition: all 0.3s ease-in-out; */
+  }
+
+  nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item .icon svg {
+    transform: rotate(-90deg);
+  }
+
+  nav.nav
+    > ul.nav__list
+    > li
+    > ul.nav__sub
+    li.nav__sub__item:not(:hover)
+    > ul.nav__sub {
+    /* transform: translateX(10px); */
+    opacity: 0;
+    visibility: hidden;
+  }
+  nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item:hover > a,
+  nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item:hover .icon {
+    color: #fff;
+    background: #007a3d;
+  }
+}
+
+@media (max-width: 991px) {
+  nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item > ul.nav__sub {
+    width: 100%;
+    display: none;
+  }
+  nav.nav
+    > ul.nav__list
+    > li
+    > ul.nav__sub
+    li.nav__sub__item
+    > ul.nav__sub
+    > li {
+    padding-left: 5px;
+  }
+  nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item > a {
+    width: auto;
+  }
+  nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item .icon {
+    width: 20xp;
+  }
+  nav.nav
+    > ul.nav__list
+    > li
+    > ul.nav__sub
+    li.nav__sub__item
+    > ul.nav__sub
+    > li:first-child {
+    border-top: 1px solid #c4c4c4;
+  }
+  nav.nav > ul.nav__list > li > ul.nav__sub li.nav__sub__item:hover a {
+    color: #007a3d;
+    background: none;
+  }
+}
+
+/* 07-03-23 menu css */
+
+/* agenda-wrap-starts */
+.agenda-wrap {
+  margin-top: 45px;
+}
+
+.data-listing .data-card .content {
+  padding: 20px 0 30px;
+}
+
+.data-listing .data-card .content .inner {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0 -15px;
+}
+
+.data-listing .data-card .content .left {
+  width: 70%;
+  padding: 0 15px;
+}
+
+.data-listing .data-card .content .right {
+  width: 30%;
+  padding: 0 15px;
+}
+
+.data-card .content .left .date {
+  padding: 6px 12px;
+  color: #007a3d;
+  font-size: 14px;
+  line-height: 1.29;
+  font-weight: 800;
+  background-color: #ffe100;
+  margin-bottom: 5px;
+  display: inline-flex;
+  text-transform: uppercase;
+}
+
+.data-card .content .left .data-title {
+  font-size: 32px;
+  line-height: 1.29;
+  color: #007a3d;
+  margin-bottom: 10px;
+  font-weight: 700;
+  text-transform: none;
+}
+
+.data-card .content .left .location {
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+}
+
+.data-card .content .left .location .title {
+  font-size: 14px;
+  line-height: 1.72;
+  color: #007a3d;
+  font-weight: 700;
+  display: block;
+  margin-right: 17px;
+}
+
+.data-listing .data-card .content .right .img-box {
+  text-align: center;
+}
+
+.data-listing .data-card .content .right .img-box img {
+  height: 100%;
+  max-height: 130px;
+}
+
+.data-listing-wrap .data-listing > li {
+  border-bottom: 1px solid #ededed;
+  border-bottom: 1;
+}
+
+.data-listing-wrap .data-listing > li:first-child {
+  border-top: 1px solid #ededed;
+}
+
+.btn-icon {
+  font-size: 14px;
+  line-height: 1.57;
+  color: #007a3d;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  background-color: transparent;
+}
+
+.btn-icon-left .icon {
+  margin-right: 12px;
+}
+
+.data-listing-wrap .read-more-wrap .read-more-content {
+  margin-top: 30px;
+  display: none;
+}
+
+.read-more-btn .icon {
+  transition: all 0.3s ease-in-out;
+}
+
+.read-more-btn.active .icon {
+  transform: rotate(90deg);
+}
+
+.year-month-continer {
+  max-width: 180px;
+}
+
+.year-month-continer .year-listing {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
+
+.year-month-continer .year-listing .nav-btn {
+  background-color: transparent;
+}
+
+.year-month-continer .year-listing .center {
+  color: #007a3d;
+  font-size: 20px;
+  line-height: 1.8;
+  font-weight: 700;
+}
+
+.year-month-continer .month-listing ul {
+  border-top: 1px solid #ededed;
+}
+
+.year-month-continer .month-listing ul li a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 12px 12px 16px;
+  transition: all 0.3s ease-in-out;
+  /* border-top: 1px solid #ededed; */
+}
+
+.year-month-continer .month-listing ul li a:hover,
+.year-month-continer .month-listing ul li a:focus,
+.year-month-continer .month-listing ul li a:active {
+  background-color: #ededed;
+}
+
+.year-month-continer .month-listing ul li {
+  border-bottom: 1px solid #ededed;
+  position: relative;
+}
+
+.year-month-continer .month-listing ul li.active::before {
+  content: "";
+  width: 8px;
+  height: 11px;
+  position: absolute;
+  top: 50%;
+  transform: translatey(-50%);
+  left: 0;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='11.669' viewBox='0 0 8 11.669'%3E%3Cpath id='pointer-geel' d='M0,11.669,8,5.834,0,0Z' fill='%23007a3d'/%3E%3C/svg%3E%0A");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.year-month-continer .month-listing ul li.active {
+  background-color: #ededed;
+}
+
+.year-month-continer .month-listing ul {
+  list-style: none;
+  padding: 0;
+}
+
+.year-month-continer .month-listing ul li .left {
+  color: #007a3d;
+  font-size: 16px;
+  line-height: 2.25;
+  font-weight: 700;
+}
+
+.year-month-continer .month-listing ul li .right {
+  width: 22px;
+  height: 22px;
+  color: #fff;
+  border-radius: 50%;
+  background-color: #007a3d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 2.57;
+}
+
+.year-month-continer .mobile-show {
+  margin-bottom: 16px;
+  display: none;
+}
+
+.data-listing-wrap .read-more-wrap .read-more-content a {
+  color: #007a3d;
+  font-size: 14px;
+  line-height: 1.57;
+  text-decoration: underline;
+}
+
+@media (min-width: 992px) {
+  .year-month-continer .month-listing {
+    display: block !important;
+  }
+}
+
+@media (max-width: 991px) {
+  .data-card .content .left .data-title {
+    font-size: 28px;
+  }
+
+  .year-month-continer .mobile-show {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    font-size: 18px;
+    border: 1px solid #007a3d;
+    padding: 10px;
+  }
+
+  .year-month-continer {
+    max-width: none;
+  }
+
+  .year-month-continer .month-listing {
+    display: none;
+  }
+}
+
+@media (max-width: 767px) {
+  .data-listing .data-card .content .left,
+  .data-listing .data-card .content .right {
+    width: 100%;
+    padding: 0;
+  }
+
+  .data-listing .data-card .content .right {
+    margin-bottom: 30px;
+  }
+
+  .data-listing .data-card .content .right .img-box {
+    text-align: left;
+  }
+
+  .data-card .content .left .data-title {
+    font-size: 22px;
+  }
+
+  .data-listing .data-card .content .inner {
+    margin: 0;
+  }
+
+  .data-listing .data-card .content .right .img-box img {
+    width: 100%;
+    max-height: none;
+  }
+
+  .data-listing-wrap .read-more-wrap .read-more-content {
+    margin-top: 10px;
+  }
+
+  .data-card .content .left .location {
+    margin-bottom: 16px;
+  }
+
+  .data-card .content .left .date {
+    font-size: 12px;
+    padding: 6px 10px;
+    margin-bottom: 8px;
+  }
+}
+
+/* agenda-wrap-ends */

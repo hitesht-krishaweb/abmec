@@ -1,0 +1,37 @@
+$headings: h1 h2 h3 h4 h5 h6;
+$text: p a;
+
+@each $type in $headings {
+    #{$type} {
+        font-size: map-get($font-sizes, #{$type});
+        line-height: map-get($line-heights, #{$type});
+    }
+}
+
+@each $type in $text {
+    #{$type} {
+        font-size: map-get($font-sizes, #{$type});
+        line-height: map-get($line-heights, #{$type});
+    }
+}
+
+h1 {
+    font-weight: bold;
+    color: get-color(greyscales, dark);
+}
+
+h2, h3,
+h4, h5 {
+    font-weight: 700;
+    color: get-color(greyscales, black);
+}
+
+p {
+    margin-bottom: 1rem;
+
+    > a {
+        font-size: 1em;
+        color: get-color(brand, primary);
+        text-decoration: underline;
+    }
+}

@@ -1,0 +1,31 @@
+html,
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: $base-font-size;
+    color: get-color(greyscales, base);
+    -webkit-font-smoothing: antialiased;
+}
+
+svg {
+    &[class] {
+        visibility: visible;
+    }
+}
+picture,
+main {
+    display: block;
+}
+
+button {
+    border: 0;
+
+    cursor: pointer;
+}
+
+address {
+    margin-bottom: 1rem;
+
+    font-style: normal;
+    font-size: pxtorem(14px);
+    line-height: pxtorem(24px);
+}

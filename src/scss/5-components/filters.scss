@@ -1,0 +1,33 @@
+.filter {
+    &__group {
+        margin-bottom: 0.5rem;
+
+        &__title {
+            width: 100%;
+
+            color: get-color(brand, primary);
+            font-size: pxtorem(14px);
+            text-transform: uppercase;
+
+            cursor: pointer;
+        }
+
+        &__content {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+
+            &[data-collapsed] {
+               display: none;
+            }
+        }
+
+        .form__group {
+            margin-bottom: 0;
+        }
+
+        .form__group + .form__group {
+            margin-left: pxtorem(11px);
+        }
+    }
+}

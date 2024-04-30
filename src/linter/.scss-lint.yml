@@ -1,0 +1,39 @@
+files:
+  ignore:
+
+rules:
+  indentation:
+    - 2
+    - size: 4
+
+  border-zero:
+    - 2
+    - convention: zero
+
+  bem-depth:
+    - 2
+    - max-depth: 3
+
+  final-newline:
+    include: true
+
+  leading-zero:
+    include: false
+
+  class-name-format:
+    - 2
+    - convention:
+      - hyphenatedbem
+      - ^(?!js-).*
+      convention-explanation: should not be written in the form js-*
+
+  single-line-per-selector: 1
+
+  clean-import-paths:
+      - leading-underscore: true
+
+  no-css-comments: 0
+
+  quotes:
+    - 1
+    - style: double

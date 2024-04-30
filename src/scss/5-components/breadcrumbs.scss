@@ -1,0 +1,64 @@
+.breadcrumbs {
+    $self: &;
+    margin: 0 0 1.5rem 0;
+
+    &__back {
+        display: inline-block;
+        padding: 0.25rem 1rem;
+        margin-right: 0.5rem;
+
+        background: get-color(greyscales, Xlight);
+
+        color: get-color(brand, primary);
+        font-weight: 600;
+        font-size: pxtorem(12px);
+        text-transform: uppercase;
+
+        + #{$self}__list {
+            display: inline-block;
+        }
+    }
+
+    &__list {
+        li {
+            display: inline-block;
+            margin-left: 0.5rem;
+
+            color: get-color(greyscales, base);
+            font-size: pxtorem(12px);
+
+            a {
+                color: get-color(greyscales, base);
+                font-size: pxtorem(12px);
+
+                &:hover {
+                    color: get-color(brand, primary);
+                    text-decoration: underline;
+                }
+            }
+
+            &::before {
+                content: "";
+                display: inline-block;
+                vertical-align: middle;
+
+                width: 0;
+                height: 0;
+
+                margin-right: 0.5rem;
+
+                border-style: solid;
+                border-width: 4px 0 4px 6px;
+                border-color: transparent transparent transparent get-color(greyscales, base);
+            }
+
+            &:first-child {
+                margin-left: 0;
+
+                &:before {
+                    display: none;
+                }
+            }
+        }
+    }
+}

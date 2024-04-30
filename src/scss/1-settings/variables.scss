@@ -1,0 +1,25 @@
+$base-font-size: 16px;
+
+$font-sizes: (
+    h1: 32px / $base-font-size + rem,
+    h2: 24px / $base-font-size + rem,
+    h3: 22px / $base-font-size + rem,
+    h4: 20px / $base-font-size + rem,
+    h5: 20px / $base-font-size + rem,
+    h6: 20px / $base-font-size + rem,
+    p:  18px / $base-font-size + rem,
+    a:  18px / $base-font-size + rem,
+    small: 14px / $base-font-size + rem
+);
+
+$line-heights: (
+    h1: 40px / $base-font-size + rem,
+    h2: 32px / $base-font-size + rem,
+    h3: 28px / $base-font-size + rem,
+    h4: 26px / $base-font-size + rem,
+    h5: 26px / $base-font-size + rem,
+    h6: 26px / $base-font-size + rem,
+    p:  22px / $base-font-size + rem,
+    a:  22px / $base-font-size + rem,
+    small: 16px / $base-font-size + rem
+);

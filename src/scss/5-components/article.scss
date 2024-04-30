@@ -1,0 +1,36 @@
+article {
+    p {
+        font-size: pxtorem(14px);
+        line-height: pxtorem(24px);
+        color: get-color(greyscales, dark);
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        color: get-color(brand, primary);
+        text-transform: uppercase;
+    }
+
+    h4,
+    h5 {
+        text-transform: none;
+    }
+
+    h5,
+    h6 {
+        color: get_color(greyscales, black)
+    }
+
+    h1 {
+        margin-bottom: 1rem;
+        font-weight: 800;
+    }
+
+    h3 {
+        font-size: pxtorem(14px);
+    }
+}

@@ -1,0 +1,25 @@
+.section {
+    padding: 0 0 pxtorem(22px) 0;
+
+    @include media-breakpoint-up(lg) {
+        padding: 0 0 pxtorem(44px) 0;
+    }
+
+    &__title {
+        color: get-color(brand, primary);
+        font-size: pxtorem(24px);
+        text-transform: uppercase;
+
+        @include media-breakpoint-up(lg) {
+            font-size: pxtorem(44px);
+        }
+    }
+
+    &--secondary {
+        background: get-color(greyscales, Xlight);
+    }
+
+    &--center {
+        text-align: center;
+    }
+}

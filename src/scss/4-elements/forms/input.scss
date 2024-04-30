@@ -1,0 +1,48 @@
+input {
+    padding: 0.5rem;
+
+    border: none;
+    border: 1px solid get-color(greyscales, light);
+    background: transparent;
+
+    font-family: 'Montserrat', sans-serif;
+
+    &:focus {
+        outline: 0;
+        border-color: get-color(brand, primary);
+    }
+
+    &:not([type="radio"]):not([type="checkbox"]) {
+        width: 100%;
+    }
+}
+
+textarea {
+    width: 100%;
+    height: pxtorem(72px);
+
+    padding: 0.5rem;
+
+    border: 1px solid get-color(greyscales, light);
+    background: transparent;
+
+    font-family: 'Montserrat', sans-serif;
+
+    overflow-y: auto;
+    resize: none;
+
+    &:focus {
+        outline: 0;
+        border-color: get-color(brand, primary);
+    }
+}
+
+select {
+    width: 100%;
+    padding: pxtorem(3px) 0;
+
+    border: 2px solid get-color(greyscales, light);
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: pxtorem(12px);
+}

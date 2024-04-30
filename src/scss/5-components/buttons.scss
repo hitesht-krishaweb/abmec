@@ -1,0 +1,81 @@
+.button {
+    display: inline-block;
+    padding: 8px;
+
+    background: get-color(greyscales, Xlight);
+    color: get-color(brand, primary);
+    font-size: pxtorem(14px);
+    text-transform: uppercase;
+    font-weight: 700;
+
+    flex-shrink: 0;
+
+    transition: background 0.2s ease-in-out;
+
+    @include media-breakpoint-up(lg) {
+        padding: 13px;
+
+        font-size: pxtorem(18px);
+    }
+
+    .icon-chevron {
+        width: 14px;
+        height: 11px;
+    }
+
+    &:hover,
+    &:focus,
+    &:focus:active {
+        background: darken(get-color(greyscales, Xlight), 5%);
+    }
+
+
+    & + & {
+        margin-left: 1rem;
+    }
+
+    &--primary {
+        background: get-color(brand, primary);
+        color: get-color(greyscales, white);
+
+        .icon-chevron {
+            fill: get-color(greyscales, white);
+        }
+
+        &:hover,
+        &:focus,
+        &:focus:active {
+            background: darken(get-color(brand, primary), 5%);
+        }
+    }
+
+    &--secondary {
+        background: get-color(brand, secondary);
+        color: get-color(brand, primary);
+
+        &:hover,
+        &:focus,
+        &:focus:active {
+            background: darken(get-color(brand, secondary), 2%);
+        }
+    }
+
+    &--white {
+        background: get-color(greyscales, white);
+
+        &:hover,
+        &:focus,
+        &:focus:active {
+            background: get-color(greyscales, Xlight);
+        }
+    }
+}
+.button.show_more {
+    display:flex;
+    margin:0 auto;
+
+    .icon-chevron {
+        height:22px;
+        margin-left:5px;
+    }
+}

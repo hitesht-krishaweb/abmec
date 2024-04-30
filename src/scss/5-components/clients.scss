@@ -1,0 +1,30 @@
+.clients {
+    margin: pxtorem(30px) 0;
+
+    &__item {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        height: 94px;
+        margin-bottom: 30px;
+
+        border: 2px solid get-color(greyscales, light);
+
+        @include media-breakpoint-up(lg) {
+            margin-bottom: 0;
+        }
+
+
+        &__logo {
+            filter: grayscale(100%);
+            transition: filter 0.2s ease-in-out;
+
+            &:hover,
+            &:focus,
+            &:focus:active {
+                filter: grayscale(0);
+            }
+        }
+    }
+}

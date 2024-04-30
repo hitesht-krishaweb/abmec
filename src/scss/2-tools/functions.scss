@@ -1,0 +1,9 @@
+@function pxtorem($size) {
+    $rems: $size / $base-font-size;
+    @return #{$rems}rem;
+}
+
+@function pxtoem($size) {
+    $ems: $size / $base-font-size;
+    @return #{$rems}em;
+}
